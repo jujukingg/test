@@ -1,0 +1,8 @@
+version: 0.8.1
+files:
+  - url: electron-updater-example-Setup-0.8.1.exe
+    sha512: LmnOlMG+iJfNDvN0kS3UdPTUejudGG+VMWPNjmlx5R45JbzInobTANrkXw1BhTU/hNNPLJxVj8wKTmOfneyhiw==
+    size: 59841833
+path: electron-updater-example-Setup-0.8.1.exe
+sha512: LmnOlMG+iJfNDvN0kS3UdPTUejudGG+VMWPNjmlx5R45JbzInobTANrkXw1BhTU/hNNPLJxVj8wKTmOfneyhiw==
+releaseDate: '2024-07-04T12:47:49.267Z'
